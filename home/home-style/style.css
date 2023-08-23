@@ -1,0 +1,103 @@
+.bannerTopHead-wrapper {
+  display: flex;
+  justify-content: space-between;
+  background: #e8efff;
+  padding: 8px 0;
+}
+.bannerTopHead-wrapper img {
+  width: 100%;
+}
+
+.BannerSection .left {
+  border-radius: 15px;
+  box-shadow: 0 1px 2px 0 rgba(60, 64, 67, 0.1), 0 2px 6px 2px rgba(60, 64, 67, 0.15);
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+.BannerSection .left .label-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+}
+.BannerSection .left .label-item .right-content {
+  display: flex;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+.BannerSection .left .label-item .right-content i {
+  display: block;
+  height: 25px;
+  margin-right: 5px;
+  text-align: center;
+  width: 25px;
+}
+.BannerSection .left .label-item .right-content a {
+  color: #000;
+  text-decoration: none;
+}
+.BannerSection .left .label-item:hover {
+  background: #f3f4f6;
+  border-radius: 5px;
+}
+.BannerSection .left .label-item:hover a {
+  color: #dc3833;
+}
+.BannerSection .right {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+.BannerSection .right .right-banner a img {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 12px;
+}
+.BannerSection .right .right-banner a:last-child img {
+  margin-bottom: 0;
+}
+
+.horizontal-banner {
+  margin-top: 20px;
+}
+.horizontal-banner img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.ProductsSection {
+  margin-top: 20px;
+  background: white;
+  box-shadow: 0 1px 2px 0 rgba(60, 64, 67, 0.1), 0 2px 6px 2px rgba(60, 64, 67, 0.15);
+  border-radius: 12px;
+  padding: 15px;
+}
+.ProductsSection .product-wrap .title {
+  color: #444;
+  font-weight: 600;
+  font-size: 22px;
+  margin-bottom: 12px;
+}
+.ProductsSection .product-wrap .product-box {
+  background: #ffffff;
+  padding: 12px;
+  border-radius: 12px;
+  border: 2px solid rgba(60, 64, 67, 0.15);
+  margin-bottom: 24px;
+}
+.ProductsSection .product-wrap .product-box:hover {
+  box-shadow: 0 1px 2px 0 rgba(60, 64, 67, 0.1), 0 2px 6px 2px rgba(60, 64, 67, 0.15);
+}
+
+.FooterSection {
+  margin-top: 20px;
+  background: white;
+  box-shadow: 0 1px 2px 0 rgba(60, 64, 67, 0.1), 0 2px 6px 2px rgba(60, 64, 67, 0.15);
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+.FooterSection .title {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding: 40px 0;
+  color: #000000;
+}/*# sourceMappingURL=style.css.map */

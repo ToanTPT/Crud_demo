@@ -1,0 +1,23 @@
+.menu {
+  background-color: rgb(217, 227, 242);
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.menu a {
+  color: black;
+}
+
+.btnClass {
+  border: none;
+  background-color: white;
+  width: 100%;
+}
+
+.btnClass:focus {
+  color: blue;
+}
+
+.search {
+  margin: 30px 0 !important;
+}/*# sourceMappingURL=style.css.map */
